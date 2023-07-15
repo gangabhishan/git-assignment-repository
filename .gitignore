@@ -1,0 +1,7 @@
+# Creating a .gitignore file and configuring it for excluding these files
+
+*.class
+.settings/
+.project
+
+
